@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="IconView">
+        <attr name="text" format="string"/>
+        <attr name="src" format="reference"/>
+        <attr name="bgColor" format="color"/>
+    </declare-styleable>
+
+    <declare-styleable name="CollegeItemView">
+        <attr name="txtCollegeName" format="string"/>
+        <attr name="txtBranchName" format="string"/>
+        <attr name="txtCutoffMark" format="string"/>
+        <attr name="txtCutoffRank" format="string"/>
+        <attr name="txtCity" format="string"/>
+        <attr name="txtLikes" format="string"/>
+        <attr name="img" format="reference"/>
+    </declare-styleable>
+
+</resources>

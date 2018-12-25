@@ -1,0 +1,46 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="title_padding">8dp</dimen>
+    <dimen name="element_margin">2dp</dimen>
+    <dimen name="element_padding">10dp</dimen>
+    <dimen name="et_margin">15dp</dimen>
+    <dimen name="corner_radius">2dp</dimen>
+    <dimen name="content_text">16sp</dimen>
+    <dimen name="et_padding">10dp</dimen>
+    <dimen name="row_padding_vertical">5dp</dimen>
+    <dimen name="row_padding_horizontal">5dp</dimen>
+    <dimen name="divider_height">1dp</dimen>
+    <dimen name="text_small">12dp</dimen>
+    <dimen name="row_icon">42dp</dimen>
+    <dimen name="row_icon_padding">7dp</dimen>
+    <dimen name="large_text">16dp</dimen>
+    <dimen name="padding_visible_element">20dp</dimen>
+
+    <integer name="branch_weight">45</integer>
+    <integer name="cut_off_weight">25</integer>
+    <integer name="quota_weight">30</integer>
+
+    <dimen name="material_list_text_size">16sp</dimen>
+    <dimen name="material_card_height">72dp</dimen>
+    <dimen name="list_right_icon_size">70dp</dimen>
+    <dimen name="row_icon_padding_big">8dp</dimen>
+    <dimen name="row_icon_margin">40dp</dimen>
+    <dimen name="list_padding">10dp</dimen>
+    <dimen name="advance_padding_vertical">16dp</dimen>
+    <dimen name="advance_padding_horizontal">36dp</dimen>
+    <dimen name="advance_spinner_height">60dp</dimen>
+    <dimen name="home_drawable_padding">50dp</dimen>
+    <dimen name="home_padding">30dp</dimen>
+    <dimen name="home_btn_height">82dp</dimen>
+    <dimen name="material_padding">8dp</dimen>
+    <dimen name="icon_size_home">66dp</dimen>
+
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="icon_size">30dp</dimen>
+    <dimen name="subhead_size">14sp</dimen>
+    <dimen name="head_size">18sp</dimen>
+    <dimen name="pad_top">5dp</dimen>
+    <dimen name="pad_bottom">5dp</dimen>
+    <dimen name="padding_iconview">12dp</dimen>
+</resources>
